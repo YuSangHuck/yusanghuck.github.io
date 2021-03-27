@@ -86,10 +86,13 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : custom # false (default), "google", "google-universal", "google-gtag", "custom"
+  # google:
+  #   tracking_id          :
+  #   anonymize_ip         : # true, false (default)
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    gtag: "G-XT8H12DJCP"
+    gtm:  "GTM-3XRZ5HJ"
 
 
 # Site Author
@@ -295,14 +298,3 @@ defaults:
       comments: false
       share: true
       related: false
-
-
-# FIXME
-# # Fill in your Google Analytics gtag.js ID to track your website using gtag
-# gtag: "G-XT8H12DJCP"
-
-# # Fill in your Google Analytics ID to track your website using Google Analytics
-# #google_analytics: "" // ga4부터는 gtag(G-XXXXXXX)가 Google Analytics ID(UA-XXXXXX)를 대신한다
-
-# # Google Tag Manager ID
-# gtm: "GTM-3XRZ5HJ"
