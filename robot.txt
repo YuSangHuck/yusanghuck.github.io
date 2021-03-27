@@ -1,0 +1,7 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
+
+#DaumWebMasterTool:42d31a06282b76fbdceedda34157c2b4a19d6188e2ba78a3b4ca0746cc5cb0cf:x9GGfMiMw2Qkt54MKWNi5w==
