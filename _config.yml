@@ -76,7 +76,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/img/profile-image.jpg"
+og_image                 : "/assets/images/profile-image.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -295,3 +295,14 @@ defaults:
       comments: false
       share: true
       related: false
+
+
+# FIXME
+# # Fill in your Google Analytics gtag.js ID to track your website using gtag
+# gtag: "G-XT8H12DJCP"
+
+# # Fill in your Google Analytics ID to track your website using Google Analytics
+# #google_analytics: "" // ga4부터는 gtag(G-XXXXXXX)가 Google Analytics ID(UA-XXXXXX)를 대신한다
+
+# # Google Tag Manager ID
+# gtm: "GTM-3XRZ5HJ"
