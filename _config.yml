@@ -24,7 +24,7 @@ description              : "이것저것하는 개발자"
 url                      : "https://yusanghuck.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yusanghuck/yusanghuck.github.io"
-teaser                   : "/assets/img/profile-image.jpg"
+teaser                   : "/assets/images/profile-image.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "YuSangHuck"
-  avatar           : /assets/img/profile-image.jpg
+  avatar           : /assets/images/profile-image.jpg
   bio              : "이것저것하는 개발자"
   location         : "South Korea, Seoul"
   email            :
