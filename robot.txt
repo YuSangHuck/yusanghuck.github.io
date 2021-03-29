@@ -4,4 +4,4 @@
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 
-#DaumWebMasterTool:42d31a06282b76fbdceedda34157c2b4a19d6188e2ba78a3b4ca0746cc5cb0cf:x9GGfMiMw2Qkt54MKWNi5w==
+#DaumWebMasterTool:7da0ba20ec48eabe1e4ad71b78cbe40a450857bfebfb51b048a181cfbe4a1b14:WXJmWDykQRU2vgFy067jdQ==
